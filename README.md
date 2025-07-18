@@ -1,2 +1,0 @@
-# Landify
-This project is a frontend implementation of the Landify Hero Section, built from scratch based on the provided Figma design reference. The goal was to achieve pixel-perfect alignment between the design and code using modern CSS practices, specifically Tailwind CSS, without relying on additional frameworks like React or Bootstrap.
